@@ -2,7 +2,7 @@
 
 Have you ever wanted to know the relationship between various kinds of information in a large dataset representing the airbnb rental enviornment in Seattle?
 
-Of course you haven't. You probably don't even live in Seattle (only 0.05% of people in the world do, and only 1% even restricting the total to US citizens). I haven't 
+Of course you haven't. It is unlikely that you live in Seattle (only 0.05% of people in the world do, and only 1% even considering only the US). I haven't 
 even been there.
 
 Nevertheless, you might well have used the highly popular airbnb rental service for accomodation. You may even have considered matters from the other end,
