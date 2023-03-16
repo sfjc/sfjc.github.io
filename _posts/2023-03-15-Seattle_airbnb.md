@@ -1,6 +1,6 @@
 ## Seattle airbnb
 
-Have you ever wanted to know the relationship between various kinds of information in a large dataset representing the airbnb rental enviornment in Seattle?
+Have you ever wanted to know the relationship between various kinds of information in a large dataset representing the airbnb rental environment in Seattle?
 
 Of course you haven't. It is unlikely that you live in Seattle (only 0.05% of people in the world do, and only 1% even considering only the US). I haven't 
 even been there.
