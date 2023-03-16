@@ -13,8 +13,8 @@ If so, such information is highly instructive and likely widely applicable, and 
 
 These are the three questions I am posing:
 
-1)
+1) Do properties with stricter cancellation policies typically have higher prices?
 
-2)
+2) How does the number of available properties vary through the year? Is it cyclical? Is there an overall trend?
 
-3)
+3) Are there any particular words in the property summaries associated with higher prices?
