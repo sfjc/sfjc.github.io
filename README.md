@@ -16,7 +16,9 @@ reveal key clues and trends.
 ## Files
 
 calendar.csv (1393570 entries, describes availability)
+
 listings.csv (3818 entries, describes individual properties)
+
 reviews.csv (84849 entries, gives renter reviews)
 
 ## Summary of Findings
