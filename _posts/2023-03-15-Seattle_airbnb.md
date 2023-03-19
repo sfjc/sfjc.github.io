@@ -46,8 +46,27 @@ ii) There is a cyclical variation in property availability with a wavelength of 
 
 iii) There are two big drops in availability. This may be due to major events in the Seattle area or perhaps set times in the academic year.
 
+While the data is from 2016 and is particular to Seattle, I believe this is highly applicable to any time and location. Be aware of the competitive environment for 
+airbnb properties (low availability is good for the would-be landlord and bad for the would-be renter, and vice versa), be aware of the days in the week that are most in
+demand and be aware of any major local events that could temporarily drive up demand.
+
+Finally, I looked at which words in the summaries appeared linked to high rental prices. The ten words most associated with high prices are shown below:
 
 
+![words_price](https://user-images.githubusercontent.com/127019857/226174775-6b4ffa9a-96ed-4aa2-8bca-4787e9fafc25.png)
 
+This is fascinating. Note that renters are seemingly most willing to pay top money for:
+
+great views
+
+multiple bedrooms
+
+popular locations (Pike Place is home to a famous market)
+
+modern buildings
+
+...among other things.
+
+Surely of interest to anyone seeking to maximize the returns from a potential rental property!
 
 
