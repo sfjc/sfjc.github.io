@@ -6,7 +6,7 @@ So... have you ever wanted to know the relationship between various kinds of inf
 Of course you haven't. It is unlikely that you live in Seattle (only 1% of US citizens do, assuming you are within the US). I haven't 
 even been there.
 
-Nevertheless, you might well have used the near-globally popular Airbnb rental service for accomodation. You may even have considered matters from the other end,
+Nevertheless, you may have used the near-globally popular Airbnb rental service for accomodation. You may even have considered matters from the other end,
 as a property owner seeking to make best use of an empty room.
 
 If so, such information is highly instructive and likely widely applicable, and could make a very real difference, both on the bottom line and in terms of the comfort and convenience of your lifestyle. There is much we can learn!
