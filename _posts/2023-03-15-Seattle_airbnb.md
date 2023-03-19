@@ -63,7 +63,7 @@ multiple bedrooms
 
 popular locations (Pike Place is home to a famous market)
 
-modern buildings
+modern fittings
 
 ...among other things.
 
