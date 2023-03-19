@@ -20,8 +20,11 @@ These are the three questions I am posing:
 3) Are there any particular words in the property summaries associated with higher prices?
 
 
-First, let's look at whether properties with stricter cancellation properties typically have higher prices. From the data made available by Airbnb on Kaggle,
-the answer appears to be yes... but the association is a weak one.
+First, let's look at whether properties with stricter cancellation properties typically have higher prices.
+Airbnb has three categories for cancellation: 'flexible', 'moderate' and 'strict'.
+
+From the data made available by Airbnb on Kaggle,
+the answer appears to be yes, there is an association, but the association is a very weak one, with a 'Pearson coefficient' of 0.26.
 
 This means that, as a renter, if you are seeking a property with a higher price, it won't necessarily require you to follow a strict cancellation policy,
 although it is more likely to. As a landlord, it means that even if you have a property that doesn't fetch a high price, you can still set strict
