@@ -1,4 +1,4 @@
-## Seattle Airbnb
+## Looking to either rent or rent out? Read this first!
 
 
 So... have you ever wanted to know the relationship between various kinds of information in a large dataset representing the Airbnb rental environment in Seattle?
