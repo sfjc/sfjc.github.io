@@ -39,9 +39,10 @@ graph describing this data is shown below.
 
 Here we can see a number of very interesting features:
 
-i) The availability of properties increases throughout the year - perhaps due to more people learning about and deciding to use the Airbnb service for their property.
+i) The availability of properties increases throughout the year - perhaps due to more people learning about and deciding to use the Airbnb service for their property,
+and supply rising faster than demand.
 
-ii) There is a cyclical variation in property availability with a wavelength of one week. This diminishes towards the end of the year.
+ii) There is a cyclical variation in property availability with a wavelength of one week. This diminishes towards the end of the year - perhaps linked to point (i).
 
 iii) There are two big drops in availability. This may be due to major events in the Seattle area or perhaps set times in the academic year.
 
