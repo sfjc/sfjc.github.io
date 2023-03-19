@@ -24,10 +24,16 @@ First, let's look at whether properties with stricter cancellation properties ty
 Airbnb has three categories for cancellation: 'flexible', 'moderate' and 'strict'.
 
 From the data made available by Airbnb on Kaggle,
-the answer appears to be yes, there is an association; however, the association is a very weak one, with a 'Pearson coefficient' of 0.26.
+the answer appears to be yes, there is an association; however, the association is a very weak one, with a Pearson coefficient of 0.26.
+
+What does this mean?
 
 This means that as a renter, if you are seeking a property with a higher price, it won't necessarily require you to follow a strict cancellation policy,
 although it is more likely to. As a landlord, it means that even if you have a property that doesn't fetch a high price, you can still set strict
 cancellation policies without being completely out-of-step with rival properties.
+
+
+Next, I took at look at the data describing the number of properties available to rent out of the total, and how this varied through the data. The 
+graph describing this data is shown below.
 
 
