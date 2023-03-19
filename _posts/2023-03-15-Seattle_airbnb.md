@@ -32,6 +32,9 @@ This means that as a renter, if you are seeking a property with a higher price, 
 although it is more likely to. As a landlord, it means that even if you have a property that doesn't fetch a high price, you can still set strict
 cancellation policies without being completely out-of-step with rival properties.
 
+![graph_rental_seattle](https://user-images.githubusercontent.com/127019857/226162365-c8504196-28fb-445f-a265-69d0645d5d0a.png)
+
+
 
 Next, I took at look at the data describing the number of properties available to rent out of the total, and how this varied through the data. The 
 graph describing this data is shown below.
