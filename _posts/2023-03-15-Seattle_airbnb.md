@@ -4,9 +4,9 @@
   
 </div>
 
-![seattle-33183_1280___](https://user-images.githubusercontent.com/127019857/226547918-64100381-953f-4f8d-8570-a8e2382ac79c.png)
 
 
+![seattle-33183_1280](https://user-images.githubusercontent.com/127019857/226548181-f9c1fcc7-d2ca-449b-b886-6a825f7b7b2b.png)
 
 So... have you ever wanted to know the relationship between various kinds of information in a large dataset representing the Airbnb rental environment in Seattle?
 
