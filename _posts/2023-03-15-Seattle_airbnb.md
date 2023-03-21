@@ -1,5 +1,8 @@
 ## Looking to either rent or rent out? Read this first!
 
+![seattle-33183_1280](https://user-images.githubusercontent.com/127019857/226546905-d0e3ae7c-c95c-4a76-950a-a96142035ca9.png)
+
+
 
 So... have you ever wanted to know the relationship between various kinds of information in a large dataset representing the Airbnb rental environment in Seattle?
 
