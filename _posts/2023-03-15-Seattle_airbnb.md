@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div style="text-align:right">
 
 ### Looking to either rent or rent out? Read this first!
   
